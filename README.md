@@ -34,14 +34,14 @@ Enable continuous progress monitoring and improvement.
 - MySQL / SQLite (Select the database used)
 
 # System Modules
-    User	            Module
-Administrator = User & Quiz Management
-Administrator =	Question Bank Management
-Student	= Authentication Module
-Student =	Online Quiz Module
-Student	= Results & Dashboard Module
-AI System =	Performance Analysis Module
- & Recommendation Engine
+   User	            Module
+  Administrator = User & Quiz Management
+  Administrator =	Question Bank Management
+  Student	= Authentication Module
+  Student =	Online Quiz Module
+  Student	= Results & Dashboard Module
+  AI System =	Performance Analysis Module
+  & Recommendation Engine
 
 # Conclusion:
 SmartQuiz-AI is an innovative educational platform that combines online assessments with intelligent performance analytics. The system helps students understand their learning patterns, improve their knowledge, and achieve better academic outcomes through data-driven insights and personalized recommendations.
