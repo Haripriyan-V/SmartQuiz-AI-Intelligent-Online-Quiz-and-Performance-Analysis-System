@@ -43,18 +43,19 @@ Enable continuous progress monitoring and improvement.
   AI System =	Performance Analysis Module
   & Recommendation Engine
 
-# Architecture Overview
-'''
-┌─────────────────┐    ┌─────────────────┐    ┌─────────────────┐
-│   React.js      │    │   Django REST   │    │  SQL Server     │
-│   Frontend      │◄──►│   API Backend   │◄──►│   Database      │
-│                 │    │                 │    │                 │
-│ • TailwindCSS   │    │ • JWT Auth      │    │ • Normalized    │
-│ • React Router  │    │ • DRF           │    │ • Indexed       │
-│ • Axios         │    │ • Celery Tasks  │    │ • Scalable      │
-│ • Context API   │    │ • Redis Cache   │    │ • ACID          │
-└─────────────────┘    └─────────────────┘    └─────────────────┘
-'''
+## Architecture Overview
+
+```text
+┌──────────────────┐     ┌──────────────────┐     ┌──────────────────┐
+│     React.js     │◄──►│    Django REST   │◄──►│    SQL Server    │
+│     Frontend     │     │    API Backend   │     │     Database     │
+│                  │     │                  │     │                  │
+│ • TailwindCSS    │     │ • JWT Auth       │     │ • Normalized     │
+│ • React Router   │     │ • DRF            │     │ • Indexed        │
+│ • Axios          │     │ • Celery Tasks   │     │ • Scalable       │
+│ • Context API    │     │ • Redis Cache    │     │ • ACID           │
+└──────────────────┘     └──────────────────┘     └──────────────────┘
+```
 
 # Conclusion:
 SmartQuiz-AI is an innovative educational platform that combines online assessments with intelligent performance analytics. The system helps students understand their learning patterns, improve their knowledge, and achieve better academic outcomes through data-driven insights and personalized recommendations.
