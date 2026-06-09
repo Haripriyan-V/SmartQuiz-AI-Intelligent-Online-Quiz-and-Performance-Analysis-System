@@ -132,7 +132,7 @@ SmartQuiz-AI addresses these challenges through automated evaluation, performanc
 
 ```bash
 https://github.com/Haripriyan-V/SmartQuiz-AI-Intelligent-Online-Quiz-and-Performance-Analysis-System.git
-cd SmartQuiz-AI
+cd SmartQuiz-AI-Intelligent-Online-Quiz-and-Performance-Analysis-System
 ```
 
 ### 2. Install Dependencies
