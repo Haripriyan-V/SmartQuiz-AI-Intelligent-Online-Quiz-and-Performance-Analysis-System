@@ -131,7 +131,7 @@ SmartQuiz-AI addresses these challenges through automated evaluation, performanc
 ### 1. Clone the Repository
 
 ```bash
-https://github.com/Haripriyan-V/SmartQuiz-AI-Intelligent-Online-Quiz-and-Performance-Analysis-System.git
+git clone https://github.com/Haripriyan-V/SmartQuiz-AI-Intelligent-Online-Quiz-and-Performance-Analysis-System.git
 cd SmartQuiz-AI-Intelligent-Online-Quiz-and-Performance-Analysis-System
 ```
 
